@@ -1,24 +1,24 @@
-{
-  "name": "apitestprueba",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/whois218/ApiTestPrueba.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/whois218/ApiTestPrueba/issues"
-  },
-  "homepage": "https://github.com/whois218/ApiTestPrueba#readme",
-  "description": "",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "json-server": "^1.0.0-beta.3"
+  {
+    "name": "apitestprueba",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/whois218/ApiTestPrueba.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/whois218/ApiTestPrueba/issues"
+    },
+    "homepage": "https://github.com/whois218/ApiTestPrueba#readme",
+    "description": "",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "json-server": "^1.0.0-beta.3"
+    }
   }
-}
